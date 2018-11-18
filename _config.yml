@@ -1,12 +1,12 @@
 # Site settings
-title:        "block-Log"
-description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
+title:        "block-Log de plm"
+description:  "c'est toujours encore compliqué"
 baseurl:      "" # the subpath of your site, e.g. /blog/
-url:          "http://yourdomain.com" # the base hostname & protocol for your site
+url:          "http://127.0.0.1:4000" # the base hostname & protocol for your site
 permalink:    /:year/:title
-github:       "yourusername"
-twitter:      "yourusername"
-email:        "mail@example.com"
+github:       "plm66"
+twitter:      "bzaap"
+email:        "lemong@pm.me"
 disqus-id:    "example" #leave blank if you dont want comments.
 
 # Build settings
